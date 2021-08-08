@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 💻 **I'm a iOS Develover** 
+- 🇰🇷 **I'm working in South Korea**
+
 <!--
 **MK-Lee13/MK-Lee13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
