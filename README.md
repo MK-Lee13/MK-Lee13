@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💻 **I'm a WebServer Develover** 
+- 💻 **I'm a Backend Develover** 
 - 🇰🇷 **I'm working in South Korea**
 
 <!--
