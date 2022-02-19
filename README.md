@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 💻 **I'm a Backend Develover** 
-- 🇰🇷 **I'm working in South Korea**
-
+- 🐱‍🏍 **I'm working in South Korea**
+- 📫 **How to reach me: zx6486@gmail.com**
 <!--
 **MK-Lee13/MK-Lee13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
