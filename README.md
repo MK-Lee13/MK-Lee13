@@ -4,7 +4,6 @@
 - 🐱‍🏍 **I'm working in South Korea**
 - 📫 **How to reach me: zx6486@gmail.com**
 - 📚 Blog: [Notion](https://minkyue.notion.site/960a55928e7848c9b60f1a54c91a09ae)
-- 
 <!--
 **MK-Lee13/MK-Lee13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
