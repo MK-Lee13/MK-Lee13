@@ -2,6 +2,7 @@
 
 - 💻 **I'm a Backend Develover** 
 - 🐱‍🏍 **I'm working in South Korea**
+- 🌱 I’m currently learning Java
 - 📫 **How to reach me: zx6486@gmail.com**
 - 📚 Blog: [Notion](https://minkyue.notion.site/960a55928e7848c9b60f1a54c91a09ae)
 <!--
